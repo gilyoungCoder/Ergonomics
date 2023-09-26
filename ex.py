@@ -1,3 +1,2 @@
-a = input()
-if a == "":
-    print("stop")
+a = abs(1.1 - 3)
+print (a)
